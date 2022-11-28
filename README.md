@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Python qr code generator 
+https://github.com/ravisoni2/ravisoni2/blob/main/ravisoni.ipynb
