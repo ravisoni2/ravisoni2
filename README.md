@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Python qr code generator 
-https://colab.research.google.com/drive/1fu5cN2DwUx4RqEVNDsV58SVawXWLlVMZ
+https://drive.google.com/file/d/13op3HFAXGuGCE9q8ekJJGOX8jFelpbsu/view?usp=drivesdk
